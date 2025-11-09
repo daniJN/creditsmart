@@ -1,8 +1,3 @@
-/* ============================================
-   CREDITSMART - SISTEMA DE GESTIÓN DE CRÉDITOS
-   Autor: Ingeniería Web I
-   Fecha: 2025
-   ============================================ */
 
 /* ===== RESET Y ESTILOS BASE ===== */
 * {
@@ -415,41 +410,6 @@ body {
 .form-note p {
     margin-bottom: var(--spacing-xs);
     color: var(--text-light);
-}
-
-/* ===== SIDEBAR DE INFORMACIÓN ===== */
-.info-sidebar {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: var(--spacing-md);
-}
-
-.info-card {
-    background-color: var(--bg-white);
-    padding: var(--spacing-lg);
-    border-radius: var(--border-radius);
-    box-shadow: 0 2px 8px var(--shadow);
-}
-
-.info-card h3 {
-    color: var(--primary-color);
-    margin-bottom: var(--spacing-sm);
-}
-
-.info-card ul {
-    list-style: none;
-    padding-left: 0;
-}
-
-.info-card li {
-    padding: var(--spacing-xs) 0;
-    color: var(--text-light);
-}
-
-.contact-info {
-    font-size: 1.3rem;
-    color: var(--primary-color);
-    font-weight: 700;
 }
 
 /* ===== NOTAS INFORMATIVAS ===== */
