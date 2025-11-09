@@ -87,8 +87,9 @@ CreditSmart
 - Código organizado  
 
 
-##  Autor
 
-**Daniela Jimenez Navarro**  
+=======
+
  Email: [stephanni.jimenez@est.iudigital.edu.co]  
  GitHub: [daniJN]
+

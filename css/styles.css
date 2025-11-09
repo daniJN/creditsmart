@@ -1,4 +1,8 @@
 
+
+
+
+
 /* ===== RESET Y ESTILOS BASE ===== */
 * {
     margin: 0;
@@ -411,6 +415,8 @@ body {
     margin-bottom: var(--spacing-xs);
     color: var(--text-light);
 }
+
+
 
 /* ===== NOTAS INFORMATIVAS ===== */
 .info-note {
